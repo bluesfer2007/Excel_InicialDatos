@@ -10,12 +10,12 @@ Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en
 ## CONTENIDO: :chart_with_upwards_trend:
 
 <ul>
-<li>:white_check_mark: RECONOCER EL TIPO DE DATO EN TUS TABLAS:notebook:</li>
+<li>:white_check_mark::notebook: RECONOCER EL TIPO DE DATO EN TUS TABLAS</li>
 <ul>
     <li> </li>
 </ul>
-<li>:white_check_mark: FUNCIONES MATEMATICAS USANDO CONDICIONES :black_square_button: </li>
-<li>:white_check_mark: FUNCIONES LOGICAS (IF, OR, AND) :interrobang:</li>
+<li>:white_check_mark::black_square_button: FUNCIONES MATEMATICAS USANDO CONDICIONES  </li>
+<li>:white_check_mark::interrobang: FUNCIONES LOGICAS (IF, OR, AND) </li>
 
 </ul>
 
