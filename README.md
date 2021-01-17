@@ -1,14 +1,12 @@
 # :heart_eyes: :necktie: CURSO PRÁCTICO DE EXCEL PARA PRINCIPIANTES
 <div align="center">
-<img src="https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/logo_tmaxec.png" alt="LogoTmaxec">
+<img src="https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/logo_tmaxec_excel.png" alt="LogoTmaxec">
 
 </div>
 <p>
 Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en funciones de Excel. En el curso resolvemos retos y entendemos la manera de tratar el tipo de datos con los que puedes trabajar en Excel (numero, texto, booleano, errores)
 </p>
-<div>
-<img src="https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/logo_tmaxec_excel.png" alt="Excel">
-</div>
+
 
 ## CONTENIDO: :chart_with_upwards_trend:
 
