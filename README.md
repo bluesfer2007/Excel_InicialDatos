@@ -6,7 +6,9 @@ Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en
 <div>
 <img src="https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/logo_tmaxec_excel.png" alt="Excel">
 </div>
+
 ## CONTENIDO: :chart_with_upwards_trend:
+
 <ul>
 <li>QUÉ TIPO DE DATOS ENCUENTRO EN EXCEL :notebook:</li>
 </ul>
