@@ -1,5 +1,5 @@
 # :heart_eyes: :necktie: CURSO PRÁCTICO DE EXCEL PARA PRINCIPIANTES
-<div aling="center">
+<div align="center">
 <img src="https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/logo_tmaxec.png" alt="LogoTmaxec">
 
 </div>
