@@ -29,6 +29,7 @@ Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en
 #### :postbox: www.tmaxec.com
 
 <br></br>
+<line> </line>
 <div align="center">
 <img src="https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/logo_tmaxec.png" alt="LogoTmaxec">
 </div>
