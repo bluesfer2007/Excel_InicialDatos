@@ -2,16 +2,8 @@
 <div align="center">
 <img src="https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/logo_tmaxec_excel.png" alt="LogoTmaxec">
 </div>
-
-<center>
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
-![](https://img.shields.io/github/forks/pandao/editor.md.svg)
-![](https://img.shields.io/github/tag/pandao/editor.md.svg) 
-![](https://img.shields.io/github/release/pandao/editor.md.svg) 
-![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
-![](https://img.shields.io/bower/v/editor.md.svg)
-
-</center>
+<br>
+</br>
 <p>
 Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en funciones de Excel. En el curso resolvemos retos y entendemos la manera de tratar el tipo de datos con los que puedes trabajar en Excel (numero, texto, booleano, errores)
 </p>
