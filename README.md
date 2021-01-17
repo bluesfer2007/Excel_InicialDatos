@@ -13,9 +13,6 @@ Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en
 
 <ul>
 <li>:heavy_check_mark::notebook: RECONOCER EL TIPO DE DATO EN TUS TABLAS</li>
-<ul>
-    <R> </R>
-</ul>
 <li>:heavy_check_mark::black_square_button: FUNCIONES MATEMATICAS USANDO CONDICIONES  </li>
 <li>:heavy_check_mark::interrobang: FUNCIONES LOGICAS (IF, OR, AND)</li>
 <li>:heavy_check_mark::mag_right: FUNCIONES DE BUSQUEDA, JOIN DE DATOS</li>
@@ -25,5 +22,7 @@ Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en
 </ul>
 
 ## CONOCIMIENTOS PREVIOS:white_check_mark:
-> 
-> 
+>BASICO DE FUNCIONES
+>INTERFACE DE EXCEL
+
+
