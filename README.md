@@ -22,7 +22,6 @@ Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en
 </ul>
 
 ## CONOCIMIENTOS PREVIOS:white_check_mark:
->BASICO DE FUNCIONES
->INTERFACE DE EXCEL
+>BASICO DE FUNCIONES | >INTERFACE DE EXCEL
 
 
