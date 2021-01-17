@@ -1,14 +1,5 @@
-![](https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/002-xd.svg) 
-![](https://img.shields.io/github/forks/pandao/editor.md.svg) 
-![](https://img.shields.io/github/tag/pandao/editor.md.svg) 
-![](https://img.shields.io/github/release/pandao/editor.md.svg) 
-![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
-![](https://img.shields.io/bower/v/editor.md.svg)
-
-
-
-
 # :heart_eyes: :necktie: CURSO PRÁCTICO DE EXCEL PARA PRINCIPIANTES
+
 <div align="center">
 <img src="https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/logo_tmaxec_excel.png" alt="LogoTmaxec">
 </div>
