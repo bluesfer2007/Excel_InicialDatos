@@ -7,7 +7,12 @@
 <p>
 Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en funciones de Excel. En el curso resolvemos retos y entendemos la manera de tratar el tipo de datos con los que puedes trabajar en Excel (numero, texto, booleano, errores)
 </p>
-
+<p>
+Cada reto te ayuda a desarrollar tu razonamiento en el uso de funciones anidadas. Resolvemos problemas de extracción de texto, manejo de errores en funciones, condiciones y su uso avanzado para sumas, promedios, conteo. 
+</p>
+<p>
+Al finalizar el curso tendrás las herramientas para limpiar y editar tus datos. Tendrás herramientas para clasificar tus datos y generar información que serán el apoyo en la toma de decisiones.
+</p>
 
 ## CONTENIDO: :chart_with_upwards_trend:
 
@@ -22,7 +27,7 @@ Curso de Excel práctico: para principiantes que desean mejorar sus habilidad en
 </ul>
 
 ## CONOCIMIENTOS PREVIOS:white_check_mark:
->BASICO DE FUNCIONES | INTERFACE DE EXCEL
+>BASICO DE FUNCIONES | INTERFAZ DE EXCEL
 
 ## MAS INFORMACION:
 #### :email: cursos@tmaxec.com
