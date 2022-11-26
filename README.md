@@ -31,14 +31,9 @@ Al finalizar el curso tendrás las herramientas para limpiar y editar tus datos.
 >BASICO DE FUNCIONES | INTERFAZ DE EXCEL
 
 ## MAS INFORMACION :computer::
-#### :email: cursos@tmaxec.com
-#### :postbox: www.tmaxec.com
+#### :email: beatdatainfo@gmail.com
 
 <br></br>
 
-<div align="center">
-<hr/>
-<img src="https://github.com/bluesfer2007/Excel_InicialDatos/blob/main/img/logo_tmaxec.png" alt="LogoTmaxec">
-</div>
 
 
