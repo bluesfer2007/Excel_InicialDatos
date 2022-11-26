@@ -34,6 +34,3 @@ Al finalizar el curso tendrás las herramientas para limpiar y editar tus datos.
 #### :email: beatdatainfo@gmail.com
 
 <br></br>
-
-
-
